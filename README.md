@@ -9,6 +9,9 @@ I'm Passionate about Web Development and currently pursuing Computer Science Eng
 
 * 🌍  I'm based in India 🇮🇳
 * 🖥️  See my portfolio at [Mahi Gour](https://mahi3010.github.io/Portfolio/)
+* 💬  Ask Me About: Frontend Development, Data Structures & Algorithms
+* 🔎  Looking to Collaborate On: Open-Source Projects
+* 💪  Love: Competitive Coding & Problem Solving
 * ✉️  You can contact me at [mahi.gour88151@gmail.com](mailto:mahi.gour88151@gmail.com)
 * ⚡  If debugging is the process of removing bugs, then programming must be the process of putting them in.
 
